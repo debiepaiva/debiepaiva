@@ -1,6 +1,6 @@
 ### :sparkler: Olá, eu sou Débora Paiva, mas pode me chamar de Debie! :sparkler:
 
-Trabalho como Analista em Tecnologia com foco na integração com a nuvem através do Azure. 
+Estou no processo de transição de carreira para Desenvolvedora em Front-End especialista em Java.
 
 <div>
   <a href="https://github.com/debiepaiva">
