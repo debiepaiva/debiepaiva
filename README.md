@@ -1,6 +1,6 @@
 ### :sparkler: Olá, eu sou Débora Paiva, mas pode me chamar de Debie! :sparkler:
 
-Estou no processo de transição de carreira para Desenvolvedora em Front-End especialista em Java.
+
 
 <div>
   <a href="https://github.com/debiepaiva">
